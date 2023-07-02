@@ -1,0 +1,4 @@
+aiohttp~=3.8.4
+aiofiles~=23.1.0
+vk_api
+pydantic[dotenv]
